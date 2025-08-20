@@ -2,10 +2,7 @@ package com.devsuperior.dslist.dto;
 
 import org.springframework.beans.BeanUtils;
 
-import com.devsuperior.dslist.controllers.GameController;
 import com.devsuperior.dslist.entities.Game;
-
-import jakarta.persistence.Column;
 
 public class GameDTO {
 
